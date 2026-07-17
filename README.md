@@ -43,7 +43,7 @@ The workflow follows a complete data analytics pipeline:
 
 ## 🎯 Business Problem
 
-Detailed in [`00_Business_Problem/Business Problem Document.pdf`](./00_Business_Problem/Business%20Problem%20Document.pdf), this project addresses the need to understand customer shopping patterns to support better business decision-making around sales, marketing, and customer experience.
+Detailed in [https://github.com/karishmask191/Customer_Shopping_Behavior_Analysis/blob/main/00_Business%20Problem/Business%20Problem%20%20Document.pdf], this project addresses the need to understand customer shopping patterns to support better business decision-making around sales, marketing, and customer experience.
 
 ---
 
@@ -72,10 +72,10 @@ The dataset (`customer_shopping_behavior.csv`) contains customer transaction and
 ## 📊 Power BI Dashboard
 `04_PowerBI/Customer_Behavior_Dashboard.pbix` presents an interactive dashboard visualizing key metrics and trends from the analysis.
 ### Dashboard Preview
-![Dashboard Preview](./05_Images_%26_Logos/0_Dashboard.png)
+[https://github.com/karishmask191/Customer_Shopping_Behavior_Analysis/blob/main/05_Images%20%26%20Logos/0_Dashboard.png]
 
 ## 🖼️ Additional Visuals
-More screenshots and supporting visuals are available in the [`05_Images & Logos`](./05_Images_%26_Logos/) folder.
+More screenshots and supporting visuals are available in the [https://github.com/karishmask191/Customer_Shopping_Behavior_Analysis/tree/main/05_Images%20%26%20Logos] folder.
 
 ## 📄 Final Report
 The complete analysis summary and findings are documented in **Customer Shopping Behavior Analysis** (PDF/PPT), available at the root of this repository.
@@ -101,11 +101,9 @@ The complete analysis summary and findings are documented in **Customer Shopping
 5. Execute queries from `03_MySQL/Customer_Behavior_sql_queries.sql` in your MySQL environment.
 6. Open `04_PowerBI/Customer_Behavior_Dashboard.pbix` in Power BI Desktop to explore the dashboard.
 
----
-
 ## 📬 Contact
-Email: karishmask191@gmail.com
-LInkedin: https://www.linkedin.com/in/karishma191/
+- Email: karishmask191@gmail.com
+- Linkedin: https://www.linkedin.com/in/karishma191/
 
 If you have any questions or feedback, feel free to reach out or open an issue in this repository.
 ⭐ If you found this project helpful, consider giving it a star!
